@@ -1,0 +1,15 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Variable files
+*.tfvars
+
+# SSH keys
+*.pem
+*.pub
+
+# OS / Editor
+.vscode/
+.DS_Store
